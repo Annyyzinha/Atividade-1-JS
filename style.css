@@ -1,0 +1,17 @@
+body {
+  background-color: #142049;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container p {
+  width: auto;
+  height: auto;
+  border-radius: 15px;
+  font-size: 40px;
+  color: rgb(224, 178, 11);
+  box-shadow: 0 4px 10px rgba(236, 213, 5, 0.892);
+}
